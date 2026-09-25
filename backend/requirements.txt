@@ -1,0 +1,7 @@
+fastapi==0.141.1
+httpx==0.28.1
+psycopg[binary,pool]==3.3.6
+pydantic-settings==2.15.0
+sqlglot==26.33.0
+structlog==25.5.0
+uvicorn[standard]==0.53.0
